@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <!--SNS-->
 <h3 align="center"> 😊Follow me😊 </h3>
 <p align="center">
-<a href="https://www.instagram.com/ye6o__/" target="_blank">
+<a href="https://www.instagram.com/ye6o__/"target="_blank">
 <img src="https://img.shields.io/badge/Instargram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
 </a>
 
