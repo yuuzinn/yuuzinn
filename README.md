@@ -16,3 +16,40 @@ Here are some ideas to get you started:
 
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+ 
+
+<!--SNS-->
+<p align="center">
+<a href="https://www.instagram.com/ye6o__/">
+<img src="https://img.shields.io/badge/Instargram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
+</a>
+
+<a href="https://blog.naver.com/yeb0_">
+<img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white"/>
+  </a>
+
+<a href="https://velog.io/@yeb0">
+  <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/>
+  </a>
+  
+  </p>
+  
+  <!--TECH-->
+  <p align="center">
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/>
+  </p>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeb0)](https://github.com/anuraghazra/github-readme-stats)
