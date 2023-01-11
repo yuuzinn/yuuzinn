@@ -44,6 +44,7 @@ Here are some ideas to get you started:
 
 <div align="center">
  안녕하세요👋 <br>
+ 2022.10 부터 시작하여<br>
  백엔드 개발자를 준비하고 있는 우상훈이라고 합니다.<br>
  부족하지만 하나씩 열심히 학습중에 있습니다.<br>
  잘 부탁드립니다! 😊
