@@ -53,6 +53,11 @@ Here are some ideas to get you started:
  </p> -->
  
 Hi, there 👋 
+
+ 2022.10 부터 시작하여<br>
+ 백엔드 개발자를 준비하고 있는 <strong>우상훈</strong>이라고 합니다.<br>
+ 부족하지만 하나씩 열심히 학습중에 있습니다.<br>
+ 잘 부탁드립니다!
  
  
  <img src="https://github-readme-stats.vercel.app/api?username=yeb0&show_icons=true">
