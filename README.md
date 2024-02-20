@@ -15,9 +15,8 @@ Here are some ideas to get you started:
 -->
  <h3><strong>INFO🌱</strong></h3>
  
- 안녕하세요-!😄 소통하는 것을 좋아하는 <strong>우상훈</strong>이라고 합니다.<br>
- 어려운 문제를 더 효율적으로 해결하기 위해 trade-off를 상황에 맞게 고려하여 선택하고 해결해 나갑니다. <br>
-해결하는 과정에서 얻은 고민들을 팀원들에게 공유하고 토론하며 함께 성장하는 것을 좋아합니다. <br>
+안녕하세요. 저는 **빠르게 개발하여 서비스를 제공하는 것을 지향하는 개발자 우상훈입니다.**<br>
+새로운 기술도 열정적으로 받아 들이며, 제가 맡은 업무에 대해 최선을 다하고자 노력합니다.
   <h3><strong>TECH⚒️</strong><br><br>
  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/>
