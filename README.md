@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
  <h3><strong>INFO🌱</strong></h3>
  
-안녕하세요. 저는 **빠르게 개발하여 서비스를 제공하는 것을 지향하는 개발자 우상훈입니다.**<br>
+안녕하세요. 저는 **적은 리소스로 질 좋은 애플리케이션을 만들고자 하는 것이 목표인 개발자 우상훈입니다.**<br>
 새로운 기술도 열정적으로 받아 들이며, 제가 맡은 업무에 대해 최선을 다하고자 노력합니다.
   <h3><strong>TECH⚒️</strong><br><br>
  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
