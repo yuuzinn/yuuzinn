@@ -13,13 +13,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- <h3><strong>INFO🌱</strong></h3>
- 
 안녕하세요. 저는 **적은 리소스로 질 좋은 애플리케이션을 만들고자 하는 것이 목표인 개발자 우상훈입니다.**<br>
 새로운 기술도 열정적으로 받아 들이며, 제가 맡은 업무에 대해 최선을 다하고자 노력합니다.
-  <h3><strong>TECH⚒️</strong><br><br>
- <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
-<img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/>
- <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyuuzinn&count_bg=%2363CD12&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
