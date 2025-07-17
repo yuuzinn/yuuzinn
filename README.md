@@ -15,3 +15,7 @@ Here are some ideas to get you started:
 -->
 <!-- 안녕하세요. 저는 **적은 리소스로 질 좋은 애플리케이션을 만들고자 하는 것이 목표인 개발자 우상훈입니다.**<br>
 새로운 기술도 열정적으로 받아 들이며, 제가 맡은 업무에 대해 최선을 다하고자 노력합니다. --> 
+
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/yuuzinn?pet-id=1" width="1000" height="70"/>
+</a>
