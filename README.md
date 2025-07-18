@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 새로운 기술도 열정적으로 받아 들이며, 제가 맡은 업무에 대해 최선을 다하고자 노력합니다. --> 
 
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/yuuzinn?pet-id=733575483152441415" width="1000" height="80"/>
+  <img src="https://render.gitanimals.org/lines/yuuzinn?pet-id=733575483152441415" width="30%" height="100"/><img src="https://render.gitanimals.org/lines/yuuzinn?pet-id=734125887388952362" width="30%" height="100"/>
 </a>
