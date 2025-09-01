@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 
 <a href="https://github.com/devxb/gitanimals">
 <!--   <img src="https://render.gitanimals.org/lines/yuuzinn?pet-id=733575483152441415" width="30%" height="100"/>
-  <img src="https://render.gitanimals.org/lines/yuuzinn?pet-id=744815865853748729" width="30%" height="100"/>
-  <img src="https://render.gitanimals.org/lines/yuuzinn?pet-id=744815866159928060" width="30%" height="100"/>
-  <img src="https://render.gitanimals.org/lines/yuuzinn?pet-id=745228389665319571" width="30%" height="100"/> -->
+<!--   <img src="https://render.gitanimals.org/lines/yuuzinn?pet-id=744815865853748729" width="30%" height="100"/> -->
+<!--   <img src="https://render.gitanimals.org/lines/yuuzinn?pet-id=744815866159928060" width="30%" height="100"/> -->
+  <img src="https://render.gitanimals.org/lines/yuuzinn?pet-id=750408145802466755" width="30%" height="100"/>
   <img src="https://render.gitanimals.org/lines/yuuzinn?pet-id=745681932297803035" width="30%" height="100"/>
 </a>
