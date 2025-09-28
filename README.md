@@ -20,6 +20,6 @@ Here are some ideas to get you started:
   <a href="https://github.com/devxb/gitanimals">
 <!--   <img src="https://render.gitanimals.org/lines/yuuzinn?pet-id=733575483152441415" width="30%" height="100"/> -->
 <!--   <img src="https://render.gitanimals.org/lines/yuuzinn?pet-id=744815865853748729" width="30%" height="100"/> -->
-  <img src="https://render.gitanimals.org/lines/yuuzinn?pet-id=758952699649976920" width="30%" height="100"/><img src="https://render.gitanimals.org/lines/yuuzinn?pet-id=755359812364903478" width="25%" height="100"/><img src="https://render.gitanimals.org/lines/yuuzinn?pet-id=750408145802466755" width="25%" height="100"/>
+  <img src="https://render.gitanimals.org/lines/yuuzinn?pet-id=758952699649976920" width="25%" height="100"/><img src="https://render.gitanimals.org/lines/yuuzinn?pet-id=755359812364903478" width="25%" height="100"/><img src="https://render.gitanimals.org/lines/yuuzinn?pet-id=750408145802466755" width="25%" height="100"/>
 </a>
 </div>
